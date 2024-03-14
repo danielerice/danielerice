@@ -1,6 +1,6 @@
 ### Hello there
 
-Allow me to introduce myself, 
+Allow me to introduce myself: 
 I am a Coast Guard veteran, classically trained chef, and eager full-stack web developer proficient in JavaScript and Ruby. I specialized in Rails and React.js while going through the software engineering program at FlatIron School. My insatiable curiosity and strong work ethic drive me to continuously expand my programming expertise. I am known for asking insightful questions that propel me towards continuous learning and growth in the dynamic field of computer programming.
 <!--
 **danielerice/danielerice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
